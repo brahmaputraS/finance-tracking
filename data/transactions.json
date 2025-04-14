@@ -1,0 +1,14 @@
+[
+    {
+        "id": "67fd69dc4de97",
+        "description": "Rent",
+        "amount": -2200,
+        "date": "2025-04-14 20:02:36"
+    },
+    {
+        "id": "67fd6a2348ead",
+        "description": "Salary",
+        "amount": 6000,
+        "date": "2025-04-14 20:03:47"
+    }
+]
